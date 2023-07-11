@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/e-commerce-shopwise/static/css/main.fbf0d8d4.css",
+    "main.js": "/e-commerce-shopwise/static/js/main.8fa13fbe.js",
+    "static/media/swiper.less": "/e-commerce-shopwise/static/media/swiper.3ad06ef383c395face8e.less",
+    "static/media/navigation.less": "/e-commerce-shopwise/static/media/navigation.0dc6a9dca67dc843c696.less",
+    "index.html": "/e-commerce-shopwise/index.html",
+    "main.fbf0d8d4.css.map": "/e-commerce-shopwise/static/css/main.fbf0d8d4.css.map",
+    "main.8fa13fbe.js.map": "/e-commerce-shopwise/static/js/main.8fa13fbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbf0d8d4.css",
+    "static/js/main.8fa13fbe.js"
+  ]
+}
