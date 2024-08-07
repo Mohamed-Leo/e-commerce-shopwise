@@ -1,7 +1,3 @@
-Here’s a professional README file for your e-commerce website project created with React:
-
----
-
 # E-Commerce Shopwise
 
 **E-Commerce Shopwise** is a feature-rich e-commerce web application built using the React framework. It provides users with a seamless shopping experience, allowing them to browse products, add items to their cart, and manage their purchases efficiently.
